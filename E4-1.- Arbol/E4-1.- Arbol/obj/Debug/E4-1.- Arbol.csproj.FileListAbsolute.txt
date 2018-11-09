@@ -1,0 +1,7 @@
+C:\Users\cmrcm\source\repos\E4-1.- Arbol\E4-1.- Arbol\bin\Debug\E4-1.- Arbol.exe.config
+C:\Users\cmrcm\source\repos\E4-1.- Arbol\E4-1.- Arbol\bin\Debug\E4-1.- Arbol.exe
+C:\Users\cmrcm\source\repos\E4-1.- Arbol\E4-1.- Arbol\bin\Debug\E4-1.- Arbol.pdb
+C:\Users\cmrcm\source\repos\E4-1.- Arbol\E4-1.- Arbol\obj\Debug\E4-1.- Arbol.csprojResolveAssemblyReference.cache
+C:\Users\cmrcm\source\repos\E4-1.- Arbol\E4-1.- Arbol\obj\Debug\E4-1.- Arbol.csproj.CoreCompileInputs.cache
+C:\Users\cmrcm\source\repos\E4-1.- Arbol\E4-1.- Arbol\obj\Debug\E4-1.- Arbol.exe
+C:\Users\cmrcm\source\repos\E4-1.- Arbol\E4-1.- Arbol\obj\Debug\E4-1.- Arbol.pdb
