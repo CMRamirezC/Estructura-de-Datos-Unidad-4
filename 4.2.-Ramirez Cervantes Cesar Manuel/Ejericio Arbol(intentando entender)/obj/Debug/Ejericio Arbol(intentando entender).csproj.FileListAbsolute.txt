@@ -1,0 +1,7 @@
+C:\Users\cmrcm\source\repos\Ejericio Arbol(intentando entender)\Ejericio Arbol(intentando entender)\bin\Debug\Ejericio Arbol(intentando entender).exe.config
+C:\Users\cmrcm\source\repos\Ejericio Arbol(intentando entender)\Ejericio Arbol(intentando entender)\bin\Debug\Ejericio Arbol(intentando entender).exe
+C:\Users\cmrcm\source\repos\Ejericio Arbol(intentando entender)\Ejericio Arbol(intentando entender)\bin\Debug\Ejericio Arbol(intentando entender).pdb
+C:\Users\cmrcm\source\repos\Ejericio Arbol(intentando entender)\Ejericio Arbol(intentando entender)\obj\Debug\Ejericio Arbol(intentando entender).csprojResolveAssemblyReference.cache
+C:\Users\cmrcm\source\repos\Ejericio Arbol(intentando entender)\Ejericio Arbol(intentando entender)\obj\Debug\Ejericio Arbol(intentando entender).csproj.CoreCompileInputs.cache
+C:\Users\cmrcm\source\repos\Ejericio Arbol(intentando entender)\Ejericio Arbol(intentando entender)\obj\Debug\Ejericio Arbol(intentando entender).exe
+C:\Users\cmrcm\source\repos\Ejericio Arbol(intentando entender)\Ejericio Arbol(intentando entender)\obj\Debug\Ejericio Arbol(intentando entender).pdb
