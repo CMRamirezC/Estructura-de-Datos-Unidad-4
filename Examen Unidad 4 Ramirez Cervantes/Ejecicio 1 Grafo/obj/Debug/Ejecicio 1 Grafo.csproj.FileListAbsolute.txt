@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejecicio 1 Grafo\bin\Debug\Ejecicio 1 Grafo.exe.config
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejecicio 1 Grafo\bin\Debug\Ejecicio 1 Grafo.exe
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejecicio 1 Grafo\bin\Debug\Ejecicio 1 Grafo.pdb
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejecicio 1 Grafo\obj\Debug\Ejecicio 1 Grafo.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejecicio 1 Grafo\obj\Debug\Ejecicio 1 Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejecicio 1 Grafo\obj\Debug\Ejecicio 1 Grafo.exe
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejecicio 1 Grafo\obj\Debug\Ejecicio 1 Grafo.pdb

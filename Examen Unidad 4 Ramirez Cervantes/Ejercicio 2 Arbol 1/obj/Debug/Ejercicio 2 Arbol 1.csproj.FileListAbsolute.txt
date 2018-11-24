@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejercicio 2 Arbol 1\bin\Debug\Ejercicio 2 Arbol 1.exe.config
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejercicio 2 Arbol 1\bin\Debug\Ejercicio 2 Arbol 1.exe
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejercicio 2 Arbol 1\bin\Debug\Ejercicio 2 Arbol 1.pdb
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejercicio 2 Arbol 1\obj\Debug\Ejercicio 2 Arbol 1.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejercicio 2 Arbol 1\obj\Debug\Ejercicio 2 Arbol 1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejercicio 2 Arbol 1\obj\Debug\Ejercicio 2 Arbol 1.exe
+C:\Users\Cesar\source\repos\Examen Unidad 4 Ramirez Cervantes\Ejercicio 2 Arbol 1\obj\Debug\Ejercicio 2 Arbol 1.pdb
